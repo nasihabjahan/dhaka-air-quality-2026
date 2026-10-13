@@ -9,5 +9,5 @@ Islam et el. (2024) and the Robotics Lab of Department of Software Engineeing, D
 
 All these studies come with insightful findings, however most of them are limited to specific zones and cannot give insight on air pollution of overall Dhaka city. Also the models have been applied to dataset as past as 2023, and the latest 2026 dataset haven't been observed using machine learning algorithms. They measure the AQI based in available air pollutant measurement, but doesn't forecast the AQI for the following day. 
 
-This study aims at predicting the value of AQI using different machine learning models like LR, RF, DT, SVM, NB and KNN on Kaggle's Dhaka Air Pollution dataset 2026, and observe the accuracy to find which model performs the best in predicting the following day's AQI.
+This study aims at predicting the value of AQI using different machine learning models like LR, RF, DT, SVM, and KNN on Kaggle's Dhaka Air Pollution dataset 2026, and observe the accuracy to find which model performs the best in predicting the following day's AQI.
 
