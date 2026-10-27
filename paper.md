@@ -1,3 +1,3 @@
-# Abstract /
+# Abstract 
 
 Air pollution in Dhaka has increased to a detrimental level that requires immediate monitoring. Many attempts had been made using Machine Learning to predict the AQI of Dhaka with varying accuracy, but many of them had been ensemble method. This paper utilizes traditional simple Machine Learning models to learn the AQI pattern for Dhaka city from December 2025 to September 2026 AQI outputs and use that learning to predict the AQI for the following day. For this purpose, five regression models, namely LR, RF, DT, SVM and KNN has been trained and their accuaracy has been measured. The result shows RF giving promising result in predicting future AQI for Dhaka city.
